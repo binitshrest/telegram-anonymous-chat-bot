@@ -25,7 +25,7 @@ def select_language() -> InlineKeyboardMarkup:
     keyboard.row(
         *[
             InlineKeyboardButton(text="🇬🇧", callback_data=Language(language=Locale.EN).pack()),
-            InlineKeyboardButton(text="🇺🇦", callback_data=Language(language=Locale.UK).pack()),
+            InlineKeyboardButton(text="🇳🇵", callback_data=Language(language=Locale.UK).pack()),
             InlineKeyboardButton(text="🇯🇵", callback_data=Language(language=Locale.JA).pack()),
         ],
         width=2,

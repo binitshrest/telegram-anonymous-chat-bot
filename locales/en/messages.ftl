@@ -1,4 +1,4 @@
-welcome = 🥰 <b>Welcome to the anonymous chat, { $name }!
+welcome = 🥰 <b>Welcome to the StrangerSathiBot, { $name }!
           ❤️ Here you can freely express your thoughts and share emotions.
           🌟 Brighten up your day by discussing something interesting here!
 
@@ -17,8 +17,6 @@ help = 😍 <b>{ $name }, commands:
         🎲 /dice | <code>dice</code> ❯ roll the dice
         🏆 /top | <code>top</code> ❯ user ranking
 
-        🔗 Project link: <a href='https://github.com/Th3Kanashii/telegram-anonymous-chat-bot'>🐙 GitHub</a>
-        ❤️ Support the project: <a href='https://buymeacoffee.com/Th3Kanashii'>☕ BuyMeACoffee</a>, <a href='https://ko-fi.com/Th3Kanashii'>🎁 Ko-Fi</a></b>
 
 language = 🌐 <b>{ $name }, what language would you like me to speak?</b>
 

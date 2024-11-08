@@ -19,8 +19,10 @@ if config.config_file_name is not None:
 
 # add your model's MetaData object here
 # for 'autogenerate' support
-# from myapp import mymodel
-# target_metadata = mymodel.Base.metadata
+# Import the Base object from your models module
+from bot.services.database.models.user import Base
+
+# Assign your model's metadata to target_metadata
 target_metadata = Base.metadata
 
 # other values from the config, defined by the needs of env.py,

@@ -17,8 +17,6 @@ help = 😍 <b>{ $name }さん、コマンド:
         🎲 /dice | <code>サイコロ</code> ❯ サイコロを振る
         🏆 /top | <code>トップ</code> ❯ ユーザーのランキング
 
-        🔗 プロジェクトのリンク： <a href='https://github.com/Th3Kanashii/telegram-anonymous-chat-bot'>🐙 GitHub</a>
-        ❤️ プロジェクトを支援する: <a href='https://buymeacoffee.com/Th3Kanashii'>☕ BuyMeACoffee</a>, <a href='https://ko-fi.com/Th3Kanashii'>🎁 Ko-Fi</a></b>
 
 language = 🌐 <b>{ $name }、私はどの言語で話すことを望みますか？</b>
 
