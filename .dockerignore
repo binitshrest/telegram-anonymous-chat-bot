@@ -8,6 +8,8 @@
 Makefile
 LICENCE
 README.md
+amazon-ec2
+webserver-prod-us-east-2-key.pem
 
 # Cache
 __pycache__/

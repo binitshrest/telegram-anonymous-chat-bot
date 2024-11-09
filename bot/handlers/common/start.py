@@ -28,7 +28,7 @@ async def start_command(message: Message, i18n: I18nContext, user: DBUser) -> No
     :param user: The user.
     """
     await message.answer_photo(
-        photo="https://imgur.com/a/GwWoUQO",
+        photo="https://imgur.com/gallery/owl-house-luz-king-drawn-by-me-uYMWf8f",
         caption=i18n.get("welcome", name=user.mention),
         reply_markup=builder_reply(i18n.get("search-btn")),
     )

@@ -6,7 +6,7 @@ build-backend = "poetry.core.masonry.api"
 name = "telegram-anonymous-chat-bot"
 version = "0.4.2"
 description = "Anonymous ChatBot"
-authors = ["Th3Kanashii <Th3Kanashii@gmail.com>"]
+authors = ["StrangerSathi"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
